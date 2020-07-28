@@ -4,7 +4,7 @@ Hello, my name is Matheus Augusto, I am studying the 5th period of Information S
 
 I am passionate about technology and accounting was the kick start to raise funds and invest in my career in technology, which is my main goal.
 
-Like most Brazilians, I am also passionate about football, especially Santa Cruz Futebol Clube, reading books and watching series in general.
+Like most Brazilians, in my free time, I play and watch football, especially the games of Santa Cruz Futebol Clube, my club, reading books, watching movies and listening to music, lots of music.
 
 Thanks for the visit.
 
