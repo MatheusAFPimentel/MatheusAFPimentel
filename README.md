@@ -1,12 +1,16 @@
-### Hi there 👋
+### Seja bem-vindo 👋
 
-Hello, my name is Matheus Augusto, I am studying the 5th period of Information Systems at UNINASSAU and I am already graduated in Accounting Sciences at Faculdade Santa Helena.
+![alt text](https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif)
 
-I am passionate about technology and accounting was the kick start to raise funds and invest in my career in technology, which is my main goal.
+Olá, me chamo Matheus Augusto,  curso o 5.º período de Sistemas de informação pela UNINASSAU e já sou formado em Ciências Contábeis pela Faculdade Santa Helena. 
 
-Like most Brazilians, in my free time, I play and watch football, especially the games of Santa Cruz Futebol Clube, my club, reading books, watching movies and listening to music, lots of music.
+Sou apaixonado por tecnologia e a contabilidade foi o pontapé para conseguir arrecadar fundos e investir na minha carreira em tecnologia, que é meu principal objetivo. Alguns dos meus conhecimentos: Java, HTML, CSS, JavaScript, TypeScript, SQL, MongoDB.
 
-Thanks for the visit.
+Como a maioria dos Brasileiros, nos tempos livres, jogo e assisto futebol, principalmente os jogos do Santa Cruz Futebol Clube meu clube de coração, ler livros, assistir filmes e ouvir música, muita música.
+
+Obrigado pela visita.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MatheussAugust0)](https://twitter.com/MatheussAugust0)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-augusto-33077194/)](https://www.linkedin.com/in/matheus-augusto-33077194/)
+
+
