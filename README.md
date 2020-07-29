@@ -10,6 +10,12 @@ Como a maioria dos Brasileiros, nos tempos livres, jogo e assisto futebol, princ
 
 Obrigado pela visita.
 
+Portfólio:
+https://mathflix.vercel.app/
+https://palpite-box-hazel.vercel.app/
+Repositórios GIT.
+
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MatheussAugust0)](https://twitter.com/MatheussAugust0)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-augusto-33077194/)](https://www.linkedin.com/in/matheus-augusto-33077194/)
 
