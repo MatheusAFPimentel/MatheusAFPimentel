@@ -1,16 +1,21 @@
 ### Seja bem-vindo 👋
 
-![alt text](https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif)
+Profissional dinâmico e determinado, com 29 anos, especializado em Garantia de Qualidade (QA), atualmente em transição para o desenvolvimento de software. Demonstrada experiência na implementação de processos de garantia de qualidade, testes e melhoria contínua, consolidando uma compreensão aprofundada da excelência técnica.
 
-Olá, me chamo Matheus Augusto,  curso o 5.º período de Sistemas de informação pela UNINASSAU e sou graduado em Ciências Contábeis pela Faculdade Santa Helena. 
+Habilidades Técnicas:
 
-Sou apaixonado por tecnologia e a contabilidade foi o pontapé para conseguir arrecadar fundos e investir na minha carreira de tecnologia da informação, que é meu principal objetivo. Alguns dos meus conhecimentos: Java, HTML, CSS, JavaScript, TypeScript, SQL, MongoDB.
+QA e Testes: Expertise na execução de testes rigorosos para garantir a qualidade de software, identificando e solucionando problemas de maneira eficiente.
 
-Como a maioria dos Brasileiros, nos tempos livres, jogo e assisto futebol, principalmente os jogos do Santa Cruz Futebol Clube meu clube de coração, ler livros, assistir filmes e ouvir música, muita música.
+Desenvolvimento Backend: Comprometimento ativo no estudo e aprimoramento das habilidades em desenvolvimento Backend, com foco especial em Kotlin.
 
-Obrigado pela visita.
+Competências:
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MatheussAugust0)](https://twitter.com/MatheussAugust0)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-augusto-33077194/)](https://www.linkedin.com/in/matheus-augusto-33077194/)
+Adaptabilidade: Abraçando a mudança, estou atualmente dedicado a expandir minhas habilidades e explorar novas oportunidades no desenvolvimento de software.
+
+Aprendizado Contínuo: Busca constante por conhecimento em tecnologias emergentes, demonstrando uma mentalidade de crescimento para acompanhar as demandas do mercado.
+
+Objetivo Profissional:
+
+Buscar oportunidades desafiadoras no desenvolvimento de software, aplicando habilidades técnicas adquiridas em QA e as novas competências em desenvolvimento Backend, contribuindo para projetos inovadores e ambientes de trabalho dinâmicos.
 
 
